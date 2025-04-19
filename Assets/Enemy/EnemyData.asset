@@ -13,9 +13,12 @@ MonoBehaviour:
   m_Name: EnemyData
   m_EditorClassIdentifier: 
   enemyDatas:
-  - <Name>k__BackingField: 
+  - <Name>k__BackingField: BolaSalju
     <ID>k__BackingField: 0
     <Prefab>k__BackingField: {fileID: 0}
     <Type>k__BackingField: 0
-    <attackDamage>k__BackingField: 0
-    <Health>k__BackingField: 0
+    <attackDamage>k__BackingField: 2
+    <Health>k__BackingField: 20
+    <moveSpeed>k__BackingField: 2
+    <attackRange>k__BackingField: 2
+    <attackType>k__BackingField: 0
